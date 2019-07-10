@@ -1,0 +1,68 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #3eb4c1;
+}
+
+nav .navigation{
+	background-color: rgba(0,0,0,0.5);
+	overflow: hidden;
+}
+
+nav .navigation a{
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+	float: left;
+	text-align: center;
+	padding: 14px 16px;
+	font-family: calibri, "Roboto", sans-serif;
+}
+
+nav .navigation a{
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+	float: left;
+	text-align: center;
+	padding: 14px 16px;
+	font-family: calibri, "Roboto", sans-serif;
+}
+
+nav .navigation a:hover{
+	background-color: white;
+	color: black;
+}
+
+nav .navigation .active{
+	background-color: white;
+	color: black;
+}
+
+mark{
+	background-color: white;
+	padding: 10px 50px;
+	margin: 0 20px;
+}
+
+h1{
+	display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: none;
+	text-align: center;
+	font-family: calibri, "Roboto", sans-serif;
+}
+
+p.para2{
+	font-family: calibri, "Roboto", sans-serif;
+	font-size: 12px;
+	margin: 0 auto;
+	font-size: 15px;
+}

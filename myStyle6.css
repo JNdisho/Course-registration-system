@@ -1,0 +1,21 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #3eb4c1;
+}
+
+mark{
+	background-color: white;
+	padding: 5px 10px;
+	margin: 0px;
+}
+
+h1{
+	font-family: calibri, "Roboto", sans-serif;
+	text-align: center;
+}
+
+

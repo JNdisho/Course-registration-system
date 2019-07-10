@@ -1,0 +1,95 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #3eb4c1;
+}
+
+nav .navigation{
+	background-color: rgba(0,0,0,0.5);
+	overflow: hidden;
+}
+
+nav .navigation a{
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+	float: left;
+	text-align: center;
+	padding: 14px 16px;
+	font-family: calibri, "Roboto", sans-serif;
+}
+
+nav .navigation a{
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+	float: left;
+	text-align: center;
+	padding: 14px 16px;
+	font-family: calibri, "Roboto", sans-serif;
+}
+
+nav .navigation a:hover{
+	background-color: white;
+	color: black;
+}
+
+nav .navigation .active{
+	background-color: white;
+	color: black;
+}
+
+mark{
+	background-color: white;
+	padding: 5px 10px;
+	margin: 0px;
+}
+
+h1{
+	font-family: calibri, "Roboto", sans-serif;
+	text-align: center;
+}
+
+.Log_In_Form{
+	margin: 0 auto;
+	width: 250px;
+}
+
+.Log_In_Form input[type = text]{
+	padding: 12px 20px;
+	display: inline-block;
+	font-family: calibri, "Roboto", sans-serif;
+	box-sizing: border-box;
+	border: none;
+	width: 100%;
+}
+
+.Log_In_Form input[type = password]{
+	padding: 12px 20px;
+	display: inline-block;
+	font-family: calibri, "Roboto", sans-serif;
+	box-sizing: border-box;
+	border: none;
+	width: 100%;
+}
+
+.Log_In_Form input[type = submit]{
+	padding: 12px 20px;
+	font-family: calibri, "Roboto", sans-serif;
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	box-sizing: border-box;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+}
+
+.Log_In_Form input[type = submit]:hover{
+	background-color: rgba(0,0,0,0.6);
+	color: white;
+}
+
+
